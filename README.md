@@ -1,4 +1,4 @@
-# 曼波 TTS 插件 (Manbo TTS)
+# 曼波 TTS 插件 (Manbo TTS) ⚠仅自用！！！
 
 ![GitHub release](https://img.shields.io/github/v/release/Qiscard/astrbot_plugin_manbo-tts)
 
